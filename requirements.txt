@@ -1,0 +1,8 @@
+aiogram==2.25.1
+pandas
+qrcode
+oauth2client
+gspread
+openpyxl
+pillow
+os
