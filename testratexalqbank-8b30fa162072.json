@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "testratexalqbank",
+  "private_key_id": "8b30fa162072e50bc4f1a44ce3e8bad23fe99da8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1VQrLfxaJQIm5\n9vedoAQwX+/6wpkTpgUShIKYwYGvAgnMWEFwyJecjLT6uzZCuFyng5aGKFJIGVsG\nj5u4cOCEW6ygxu+smtamf4PCtVo473ufSFwVj2MKTmAsrQa+Wxt++ABwbeexqRJV\nOL+HBjq1Gsro81zvHrphC00H3UD4SRt06hBDse2AJ/uq0ZbVFTH4sW6VZaUORr5J\n+kPKiNwkpjpMMFMdrudlZEOb7y+vWlbxHqzvkGggJXaWMV2nRqOxNlyucrbBjGYZ\nRnhrqP//tUSqEsG42hlj0rtGgqkg/Y4w4HOLXLfQM+yOg4J+NlTmgT1uRh09ejhr\nASdvC0XxAgMBAAECggEAMJgww2Y0iOW1wxNvOlu2o6wiKMZbtYtJUrQWN4+sDFV0\ngMGqD+qBzt9aZNMk8G5tziqSfTNzEYVSAokbxyrg0DetJI0Lj+sS2R3VFqn5Gsb7\nDy2aF+EMPqfQWEiqRPsvfDBEFd0uOUtA8Xu6wBmoQ/6BIDqPzjki43ze0Nu3XJHv\nIaGZquKzqTWCDbyG05d26RnpKcWBgRw9f7g6TBvgqoAsmbjRNMa5d5zjzTaQJh+j\nccEUFSWtdT1vwDDhwJ1kXQXKQVeaw7X/6MVersNN5Sx64ULBSQBvjh3tkzwehXyk\nLt9WFIuztihcJlh8UqzgESo90cQd1fbvsu6ipv2FTQKBgQDpjyxex1daYZ0Zf33Y\nzlVKtxbgYmszJIhSAgFRADXfCUXtSMkRs80QzvrnkdMvUx1SBhl/KkIWBNdYKX6O\nyb7L4FhH/VnTqX5tNfokDVU1dcoZiBMZLi6t8GMzqmAzCXUcb5Hmx4gI+wTT3KjD\nEdAD394jFhBmCCjuxENm8AO81wKBgQDGwT8Q/u+I0LfgRVKJ8boFmG+ndtH+BivD\nk/YtvuiWIsh9Qv4l+QU9cjbChcSGZF/6nyEjXC/GZV4q0djs5kJ2DEcGUV0LGcrm\nB54jenHd3BQgZN1S3e6uKFyZkLYe50iikB6YXoez6/6Y6Q85/dKP9wWJF/lRb9CS\nMtAJUueydwKBgQDPZcfs0e8L3yp1/fRulaq/kh3KWxr+ay5yRD2PBDTSPZXOw5dp\nFNTAXEwJXkC+AXxD3g6+EXRlwR7ItvAfM58tw6YhJyShBB20NP5PDVfhBRvV2DO9\nZHknFBPDSUPrjjZkbd6NpBl0gBMlXwitUB/7kMvdNDaTpCNVAwsnWXK4OQKBgEeC\n6EoZL94uGrqatqPjUWcJ/cJnQg7/8WchKYY0FkNOqIxJOmA3ROdi3MkIkDk6jD4E\nW0v5s0bS2hrV/hLeljMbH8LqK2v/D73MJ93kBGwq7yLop6lVKLeI1ih6pMxhswSq\njheMi4707lneIRhgdw5NdrRo58+hR44Ssj9okOzpAoGBANh/RK5LrZnbfZnIGEo7\nz9D03Il10XMgA6CxLCih01dujSMCNaXpxzeBVfJGRpDrHvsuVgH/ymfxlwPv43EC\n1PMQVWmS8ErE1bHI28gKM6dQ0aHEYhLKhHA0e6QKRLLph657e4Ut+qA3Ub4lgIvE\nxZnBkhDJzm+XyIJ9T2rStPyD\n-----END PRIVATE KEY-----\n",
+  "client_email": "testratexalqbank@testratexalqbank.iam.gserviceaccount.com",
+  "client_id": "114944126829117657990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testratexalqbank%40testratexalqbank.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
