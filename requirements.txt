@@ -5,4 +5,3 @@ oauth2client
 gspread
 openpyxl
 pillow
-os
